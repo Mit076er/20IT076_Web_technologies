@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title>20IT076 Resume cv</title>
+</head>
+<body>
+<body style="background-color:powderblue;">
+<div id="header">
+<font size="+5">Mit yogeshkumar Pandya resume / cv.</font>
+           </div>
+     <div class="left">
+     </div>
+     <div class="right">
+<img style="border:10px groove gold;" src="mit.jpg" width="225" height="225">
+
+            <h3>***Educational Qualifications:</h3>
+      <table border = "1" cellpadding = "5" cellspacing = "5">
+         <tr>
+            <th>board and standard</th>
+            <th>percentage</th>
+<th>passing year</th>
+         </tr>
+         <tr>
+            <td>CBSE 10th standard</td>
+            <td>75%</td>
+<td>2017-2018</td>
+         </tr>
+         <tr>
+            <td>CBSE 10+2 (12th Std.)</td>
+            <td>70%</td>
+<td>2019-2020</td>
+         </tr>
+<tr>
+            <td>B.Tech Degree( IT )</td>
+            <td>Currently pursuing</td>
+<td>2020-2024</td>
+         </tr>
+      </table>
+            <h3>***Online and Elective courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Introduction to web Designing-sem 3</span></li>
+                <li>
+                <span id="course-name">Media and Graphics Design-sem 2 </span> </li>
+<li>
+             <span id="course-name">other nptel , coursera and cisco courses</span> </li>
+            </ul>
+            <h3>***Skills</h3>
+            <p>
+            <ul>
+               
+               
+                <span id="course-name">In coding languages</span>HTML,Java,Java gui,css,C and C++</ul>
+            </p>
+            
+            <h3>***About me:</h3>
+            <p>
+            <ul>
+                <li>
+             Learning something new everyday , And Trying to FAce and solve  barriers coming in the path of life.a common engineering student trying to fit in this Beautiful World.
+                <li>
+                <span id="course-name">Languages Known:</span>Hindi, Gujarati and English </li>
+                <li>
+                <span id="course-name">Hobbies:</span>i like the way my life is going with gaming  , editing  , programming , photography and basketball Stuff and the feeling of learning something great everyday </li> </ul>
+            </p>
+            <h3>***Thank you and contact info.</h3>
+            <p>
+            Thank you for checking out my resume / cv / profile , for more info check out my github and linkedin profile:
+<a href="mail:mitpanh@gmail.com" target="_blank">
+<p id="email">mitpanh@gmail.com</p></a>
+         <p id="contact">+91 7016204677</p></p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+body{
+    background: fixed;
+    background-color: teal;
+    padding: 0%;
+  }
+  h1{
+    color: black;
+    text-align: center;
+  }
+  h2{
+  color: blanchedalmond;
+  text-align: left;
+  }
+  p{
+    color:azure;
+  }
+  h3{
+    color: yellow;
+    text-align: center;
+  }
+  h4{
+      color: Gold;
+      text-align: left;
+  }
+  img{
+    text-align: center;
+    padding: 5%;
+    size-adjust: 5%;
+    width: 50%;
+    height:50%;
+
+  }

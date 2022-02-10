@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+}
+.container{
+    background-color: azure;
+    border: 10px solid goldenrod;
+    padding: 55px;
+    border-radius: 20px;
+    margin: 50px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
